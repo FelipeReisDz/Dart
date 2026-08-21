@@ -101,7 +101,7 @@ Este repositório também funciona como um registro da minha evolução durante 
 
 <div align="center">
 
-### 👨‍💻 Felipe Reis
+### 👨‍💻 Felipe Reis Dziubate
 
 **Estudante de Desenvolvimento de Sistemas**
 
