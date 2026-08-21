@@ -105,6 +105,4 @@ Este repositório também funciona como um registro da minha evolução durante 
 
 **Estudante de Desenvolvimento de Sistemas**
 
-
-
 </div>
