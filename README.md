@@ -63,4 +63,3 @@ Este projeto tem como objetivo registrar minha evolução nos estudos de program
 
 ---
 
-⭐ Se este repositório foi útil para você, considere deixar uma estrela!
