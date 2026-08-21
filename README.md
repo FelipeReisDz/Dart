@@ -1,66 +1,108 @@
-#  Exercícios em Dart
+# ⚡ Dart Exercises
 
-> Repositório com exercícios desenvolvidos durante meus estudos de **Dart** e **Desenvolvimento de Sistemas**.
+<div align="center">
+
+### 💻 Estudos de Programação com Dart
+
+**Exercícios • Prática • Evolução**
+
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)](https://dart.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
+
+</div>
 
 ---
 
-## 📚 Sobre
+## 🧩 Sobre
 
-Este repositório reúne exercícios e atividades desenvolvidos para praticar os fundamentos da linguagem **Dart**, desde conceitos básicos até estruturas de programação.
+Este repositório foi criado para armazenar meus **exercícios e práticas em Dart**.
 
-## 🧠 Conteúdos estudados
+Aqui estão reunidos códigos desenvolvidos durante meus estudos, servindo como registro da minha evolução na programação.
 
-* 🔹 Variáveis e tipos de dados
-* 🔹 Entrada e saída de dados
-* 🔹 Operadores
-* 🔹 Estruturas condicionais
-* 🔹 Estruturas de repetição
-* 🔹 Funções
-* 🔹 Listas
-* 🔹 Outros conceitos de programação
+---
 
-## 📂 Exercícios
-
-Todos os exercícios estão organizados na pasta:
+## 📁 Organização
 
 ```text
-📁 exercicios/
+📦 dart-exercises
+ ┣ 📂 exercicios
+ ┃ ┣ 📜 exercicio-01.dart
+ ┃ ┣ 📜 exercicio-02.dart
+ ┃ ┣ 📜 exercicio-03.dart
+ ┃ ┣ 📜 exercicio-04.dart
+ ┃ ┗ 📜 ...
+ ┗ 📜 README.md
 ```
 
-Cada arquivo contém um exercício independente em Dart.
+---
 
-## ▶️ Como executar
+## 🚀 Conteúdos
 
-Tenha o **Dart SDK** instalado.
+| #  | Conteúdo          |
+| -- | ----------------- |
+| 01 | Variáveis         |
+| 02 | Tipos de dados    |
+| 03 | Operadores        |
+| 04 | Condicionais      |
+| 05 | Repetições        |
+| 06 | Funções           |
+| 07 | Listas            |
+| 08 | Outros exercícios |
 
-Depois, execute:
+> A lista será atualizada conforme novos conteúdos forem estudados.
+
+---
+
+## ⚙️ Executando
+
+Clone o repositório:
 
 ```bash
-dart nome-do-exercicio.dart
+git clone URL_DO_REPOSITORIO
 ```
 
-Exemplo:
+Entre na pasta:
 
 ```bash
-dart exercicio-01.dart
+cd dart-exercises
 ```
+
+Execute um exercício:
+
+```bash
+dart exercicios/exercicio-01.dart
+```
+
+---
 
 ## 🛠️ Tecnologias
 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+**Linguagem**
 
-## 🎓 Objetivo
+`Dart`
 
-Este projeto tem como objetivo registrar minha evolução nos estudos de programação e servir como portfólio dos exercícios desenvolvidos.
+**Ferramentas**
 
----
-
-### 👨‍💻 Desenvolvedor
-
-**Felipe Reis**
-
-> 💻 Técnico em Desenvolvimento de Sistemas
+`Dart SDK` · `Git` · `GitHub`
 
 ---
 
-⭐ Se este repositório foi útil para você, considere deixar uma estrela!
+> Projeto em desenvolvimento conforme avanço nos estudos.
+
+---
+
+## 🎯 Objetivo
+
+Praticar programação, desenvolver lógica e construir uma base sólida em **Dart**.
+
+Este repositório também funciona como um registro da minha evolução durante o curso de **Desenvolvimento de Sistemas**.
+
+---
+
+<div align="center">
+
+### 👨‍💻 Felipe Reis
+
+**Estudante de Desenvolvimento de Sistemas**
+
+</div>
