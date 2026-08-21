@@ -1,65 +1,33 @@
-#  Exercícios em Dart
+# Dart — Exercícios
 
-> Repositório com exercícios desenvolvidos durante meus estudos de **Dart** e **Desenvolvimento de Sistemas**.
+Repositório com exercícios desenvolvidos durante meus estudos de **Dart**.
 
----
-
-## 📚 Sobre
-
-Este repositório reúne exercícios e atividades desenvolvidos para praticar os fundamentos da linguagem **Dart**, desde conceitos básicos até estruturas de programação.
-
-## 🧠 Conteúdos estudados
-
-* 🔹 Variáveis e tipos de dados
-* 🔹 Entrada e saída de dados
-* 🔹 Operadores
-* 🔹 Estruturas condicionais
-* 🔹 Estruturas de repetição
-* 🔹 Funções
-* 🔹 Listas
-* 🔹 Outros conceitos de programação
-
-## 📂 Exercícios
-
-Todos os exercícios estão organizados na pasta:
+## 📂 Organização
 
 ```text
-📁 exercicios/
+exercicios/
+├── exercicio01.dart
+├── exercicio02.dart
+├── exercicio03.dart
+└── ...
 ```
 
-Cada arquivo contém um exercício independente em Dart.
+## 🛠️ Tecnologia
 
-## ▶️ Como executar
+* Dart
 
-Tenha o **Dart SDK** instalado.
+## ▶️ Executar
 
-Depois, execute:
+Para executar um exercício:
 
 ```bash
-dart nome-do-exercicio.dart
+dart exercicios/exercicio01.dart
 ```
 
-Exemplo:
+## 🎯 Objetivo
 
-```bash
-dart exercicio-01.dart
-```
-
-## 🛠️ Tecnologias
-
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
-
-## 🎓 Objetivo
-
-Este projeto tem como objetivo registrar minha evolução nos estudos de programação e servir como portfólio dos exercícios desenvolvidos.
+Praticar lógica de programação e os fundamentos da linguagem Dart.
 
 ---
 
-### 👨‍💻 Desenvolvedor
-
-**Felipe Reis**
-
-> 💻 Técnico em Desenvolvimento de Sistemas
-
----
-
+**Felipe Reis Dziubate**
