@@ -87,13 +87,6 @@ dart exercicios/exercicio-01.dart
 
 ---
 
-## 📈 Progresso
-
-```text
-Dart
-████████████████░░░░ 80%
-```
-
 > Projeto em desenvolvimento conforme avanço nos estudos.
 
 ---
